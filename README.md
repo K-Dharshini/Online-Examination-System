@@ -1,7 +1,7 @@
 # Online-Examination-System
 ## Reg No: 212223230047
 ## Name: DHARSHINI K 
-## Date:
+## Date: 30/10/25
 
 
 # AIM:
@@ -126,5 +126,5 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 # RESULT
 
-Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
+Thus, the project to develop Online Examination system was developed using Star UML Software is done successfully.
 
